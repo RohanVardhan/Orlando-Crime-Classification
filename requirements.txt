@@ -54,7 +54,7 @@ mistune==0.7.4
 nbconvert==5.2.1
 nbformat==4.3.0
 networkx==1.11
-notebook==5.0.0
+notebook==6.1.5
 numpy==1.12.1
 numpydoc==0.7.0
 oauthlib==1.0.3
