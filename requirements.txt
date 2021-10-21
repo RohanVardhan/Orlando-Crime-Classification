@@ -2,7 +2,7 @@ alabaster==0.7.10
 apt-xapian-index==0.47
 apturl==0.5.2
 astroid==1.5.3
-Babel==2.4.0
+Babel==2.9.1
 backports.weakref==1.0rc1
 beautifulsoup4==4.4.1
 bleach==2.0.0
